@@ -1,0 +1,91 @@
+﻿  Assembling program.asm...
+program.asm(1): error A2008: syntax error : .
+program.asm(2): error A2008: syntax error : .
+program.asm(3): error A2008: syntax error : .
+program.asm(7): error A2008: syntax error : ,
+program.asm(10): error A2008: syntax error : ,
+program.asm(17): error A2008: syntax error : ,
+program.asm(53): error A2070: invalid instruction operands
+program.asm(56): error A2008: syntax error : INVOKE
+program.asm(59): error A2070: invalid instruction operands
+program.asm(64): error A2070: invalid instruction operands
+program.asm(67): error A2070: invalid instruction operands
+program.asm(70): error A2008: syntax error : WriteConsoleA
+program.asm(72): error A2070: invalid instruction operands
+program.asm(73): error A2070: invalid instruction operands
+program.asm(77): error A2070: invalid instruction operands
+program.asm(81): error A2070: invalid instruction operands
+program.asm(85): error A2070: invalid instruction operands
+program.asm(86): error A2070: invalid instruction operands
+program.asm(90): error A2070: invalid instruction operands
+program.asm(91): error A2070: invalid instruction operands
+program.asm(92): error A2070: invalid instruction operands
+program.asm(96): error A2070: invalid instruction operands
+program.asm(97): error A2070: invalid instruction operands
+program.asm(103): error A2008: syntax error : WriteConsoleA
+program.asm(105): error A2008: syntax error : INVOKE
+program.asm(107): error A2070: invalid instruction operands
+program.asm(116): error A2070: invalid instruction operands
+program.asm(118): error A2070: invalid instruction operands
+program.asm(128): error A2070: invalid instruction operands
+program.asm(129): error A2070: invalid instruction operands
+program.asm(138): error A2070: invalid instruction operands
+program.asm(143): error A2070: invalid instruction operands
+program.asm(147): error A2008: syntax error : WriteConsoleA
+program.asm(149): error A2070: invalid instruction operands
+program.asm(158): error A2070: invalid instruction operands
+program.asm(160): error A2070: invalid instruction operands
+program.asm(176): error A2070: invalid instruction operands
+program.asm(180): error A2070: invalid instruction operands
+program.asm(181): error A2070: invalid instruction operands
+program.asm(190): error A2070: invalid instruction operands
+program.asm(192): error A2070: invalid instruction operands
+program.asm(204): error A2070: invalid instruction operands
+program.asm(205): error A2070: invalid instruction operands
+program.asm(215): error A2070: invalid instruction operands
+program.asm(217): error A2070: invalid instruction operands
+program.asm(218): error A2070: invalid instruction operands
+program.asm(251): error A2070: invalid instruction operands
+program.asm(252): error A2070: invalid instruction operands
+program.asm(253): error A2070: invalid instruction operands
+program.asm(262): error A2070: invalid instruction operands
+program.asm(264): error A2070: invalid instruction operands
+program.asm(265): error A2070: invalid instruction operands
+program.asm(274): error A2008: syntax error : WriteConsoleA
+program.asm(277): error A2070: invalid instruction operands
+program.asm(281): error A2008: syntax error : WriteConsoleA
+program.asm(284): error A2070: invalid instruction operands
+program.asm(288): error A2008: syntax error : WriteConsoleA
+program.asm(295): error A2070: invalid instruction operands
+program.asm(296): error A2070: invalid instruction operands
+program.asm(297): error A2070: invalid instruction operands
+program.asm(307): error A2070: invalid instruction operands
+program.asm(309): error A2070: invalid instruction operands
+program.asm(310): error A2070: invalid instruction operands
+program.asm(311): error A2070: invalid instruction operands
+program.asm(313): error A2070: invalid instruction operands
+program.asm(326): error A2070: invalid instruction operands
+program.asm(336): error A2070: invalid instruction operands
+program.asm(337): error A2070: invalid instruction operands
+program.asm(339): error A2008: syntax error : WriteConsoleA
+program.asm(344): error A2008: syntax error : WriteConsoleA
+program.asm(346): error A2070: invalid instruction operands
+program.asm(347): error A2070: invalid instruction operands
+program.asm(356): error A2070: invalid instruction operands
+program.asm(360): error A2070: invalid instruction operands
+program.asm(361): error A2070: invalid instruction operands
+program.asm(363): error A2070: invalid instruction operands
+program.asm(370): error A2008: syntax error : WriteConsoleA
+program.asm(375): error A2008: syntax error : WriteConsoleA
+program.asm(380): error A2008: syntax error : WriteConsoleA
+program.asm(384): error A2070: invalid instruction operands
+program.asm(385): error A2070: invalid instruction operands
+program.asm(386): error A2070: invalid instruction operands
+program.asm(387): error A2070: invalid instruction operands
+program.asm(396): error A2070: invalid instruction operands
+program.asm(398): error A2070: invalid instruction operands
+program.asm(410): error A2070: invalid instruction operands
+program.asm(411): error A2070: invalid instruction operands
+program.asm(415): error A2008: syntax error : main
+program.asm(415): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\program.obj" /W3 /errorReport:prompt  /Taprogram.asm" exited with code 1.
